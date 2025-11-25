@@ -20,8 +20,8 @@ child pointer.
 ```
 /*
 Program to insert the elements in the binary search tree
-Developed by: SHANMUGAKARTHIK G
-RegisterNumber: 212223220105   
+Developed by: Ranjan K
+RegisterNumber: 212222230116  
 */
 
 /*struct node {
